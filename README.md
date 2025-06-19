@@ -80,7 +80,7 @@ Focus: randomness, OOP patterns, game state, CLI interaction, math logic.  
 
 ### Anesthesia Log Simulator  
 Real-world-inspired CLI tool for calculating anesthesia drug dosages, generating protocols, and logging to CSV.  
-Focus: modular OOP architecture, CLI design, CSV handling, unit teast coverage, real-world domain logic.  
+Focus: modular OOP architecture, CLI design, CSV handling, unit test coverage, real-world domain logic.  
 [GitHub Repo → https://github.com/katebabakova444/anesthesia-log-simulator]
 
 ---
