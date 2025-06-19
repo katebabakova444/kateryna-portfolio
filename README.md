@@ -1,4 +1,4 @@
-# python-backend-portfolio
+
 # Python Backend Portfolio  
 **Kateryna Babakova** — Self-taught Backend Developer | REACH 2025 Applicant
 
