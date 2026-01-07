@@ -1,115 +1,160 @@
+# Python Backend Portfolio
 
-# Python Backend Portfolio  
-**Kateryna Babakova** — Self-taught Backend Developer | REACH 2025 Applicant
+**Kateryna Babakova — Backend-focused Python Developer**  
+Former anesthesiologist | REACH 2026 Applicant
 
 ---
 
 ## About
 
-This portfolio documents my transition from anesthesiology to backend software engineering.  
+This portfolio reflects my progression from building simple CLI tools  
+to designing **structured, testable backend-oriented systems**.
 
-Since February 2025, I’ve been building projects to develop core backend skills — moving from simple CLI tools to more structured, modular, testable applications.
+I started learning Python in early 2025.  
+Since then, I’ve intentionally moved from basic scripts toward applications with:
 
----
+- modular architecture  
+- persistent storage  
+- validation and error handling  
+- automated testing  
+- real-world domain logic  
 
-## Video Highlights (Progression)
-
-These 3 projects are featured in my portfolio video as a demonstration of my learning progress:
-
-### 1. Smart Calculator  
-_First CLI app — building confidence with Python logic and user input validation._  
-[GitHub Repo → https://github.com/katebabakova444/smart_calculator]
-
----
-
-### 2. Casino Odds Analyzer  
-_Game simulation with object-oriented structure, randomness, and game state tracking._  
-[GitHub Repo → https://github.com/katebabakova444/CasinoGame]
+My background in anesthesiology strongly influences how I build software:  
+I value **clarity, reliability, and responsibility for system behavior**.
 
 ---
 
-### 3. Anesthesia Log Simulator  
-_Real-world inspired CLI tool for anesthesia dosage calculations and CSV logging._  
-[GitHub Repo → https://github.com/katebabakova444/anesthesia-log-simulator]
+## Featured Projects (Current Level)
+
+### Anesthesia Log Simulator  
+**Python · OOP · SQLite · Testing · Flask · Deployment**
+
+Real-world inspired backend-oriented system for anesthesia dosage calculations and logging.
+
+This project represents a clear shift from isolated CLI scripts  
+to a **structured backend system**.
+
+**Key highlights:**
+- Modular OOP architecture (clear separation of responsibilities)
+- Drug dosage calculations based on patient data
+- Persistent data storage (SQLite)
+- Input validation and error handling
+- Automated unit tests
+- Deployed service with health check
+
+**GitHub:**  
+https://github.com/katebabakova444/anesthesia-log-simulator
 
 ---
 
-## All Projects
+### Casino Odds Analyzer  
+**Python · OOP · Game State · Probability Logic**
 
-### Smart Calculator  
-CLI app that provides randomized math challenges with input validation and scoring.  
-Focus: Python basics, control flow, input validation, CLI interaction.  
-[GitHub Repo → https://github.com/katebabakova444/smart_calculator]
+Dice-based simulation focused on randomness, statistics, and state tracking.
 
----
+This project helped bridge my transition from basic CLI apps  
+to more **stateful and logic-driven systems**.
 
-### Student Course Tracker  
-Tracks enrolled students and courses using OOP structure.  
-Focus: object-oriented programming (classes and methods), basic data tracking, CLI interaction.  
-[GitHub Repo → https://github.com/katebabakova444/student-course-tracker]
+**Focus areas:**
+- game state management
+- separation of logic from user interaction
+- probability and statistical reasoning
+- object-oriented design
 
----
-
-### Task Manager  
-CLI app for managing a to-do list with persistent state.  
-Focus: file I/O (saving tasks), basic state management, CLI flow.  
-[GitHub Repo → https://github.com/katebabakova444/task_manager]
+**GitHub:**  
+https://github.com/katebabakova444/CasinoGame
 
 ---
 
-### Truck Cargo Manager  
-Simulates cargo loading based on truck constraints and safety limits.  
-Focus: constraint logic, validation, object-oriented design, CLI interaction.  
-[GitHub Repo → https://github.com/katebabakova444/truck-cargo-manager]
+### Telegram Message Scheduler  
+**Python · Automation · Scheduling · External APIs**
+
+Backend automation tool for scheduling and delivering delayed messages via Telegram.
+
+This project demonstrates working with **external APIs**,  
+time-based logic, and background-style task execution.
+
+**Key highlights:**
+- Message scheduling logic
+- Integration with Telegram Bot API
+- Backgound scheduling ('APScheduler')
+- Time-based logic testing using `pytest` + `monkeypatch`
+- Practical automation use case
+
+**GitHub:**  
+https://github.com/katebabakova444/telegram_message_scheduler
 
 ---
 
-### Product Inventory Manager  
-Processes CSV files to calculate and display product inventory totals.  
-Focus: CSV handling, data processing, file I/O, reporting.  
-[GitHub Repo → https://github.com/katebabakova444/product-inventory-manager]
+## Earlier Projects (Foundations)
+
+These projects represent my **early learning stage** and helped build strong fundamentals in Python and OOP.
+
+They are intentionally kept as part of this portfolio to show **learning progression**, not just final results.
 
 ---
 
-### Casino Odds Analyzer  
-Dice-based game simulation with stats tracking and OOP architecture.  
-Focus: randomness, OOP patterns, game state, CLI interaction, math logic.  
-[GitHub Repo → https://github.com/katebabakova444/CasinoGame]
+### Smart Calculator  
+CLI-based math challenge app.  
+Focus: Python basics, control flow, input validation.
+
+https://github.com/katebabakova444/smart_calculator
 
 ---
 
-### Anesthesia Log Simulator  
-Real-world-inspired CLI tool for calculating anesthesia drug dosages, generating protocols, and logging to CSV.  
-Focus: modular OOP architecture, CLI design, CSV handling, unit test coverage, real-world domain logic.  
-[GitHub Repo → https://github.com/katebabakova444/anesthesia-log-simulator]
+### Student Course Tracker  
+Tracks students and courses using OOP structure.  
+Focus: classes, methods, basic data tracking.
+
+https://github.com/katebabakova444/student-course-tracker
 
 ---
 
-## Video Demo  
-🎬 [Watch on YouTube](https://youtu.be/LW-QkgKgxzI)
+### Task Manager  
+CLI to-do list with persistent storage.  
+Focus: file I/O, basic state management, CLI flow.
+
+https://github.com/katebabakova444/task_manager
 
 ---
 
-## Current Learning Focus  
-- REST APIs (Flask)  
-- PostgreSQL integration  
-- Pytest and test-driven development  
-- Clean architecture and design patterns  
+### Truck Cargo Manager  
+Simulates cargo loading with safety constraints.  
+Focus: validation logic, OOP design, CLI interaction.
+
+https://github.com/katebabakova444/truck-cargo-manager
+
+---
+
+### Product Inventory Manager  
+Processes CSV files and generates inventory reports.  
+Focus: CSV handling, data processing, file I/O.
+
+https://github.com/katebabakova444/product-inventory-manager
+
+---
+
+## Current Technical Focus
+
+- REST API design (Flask)
+- Data persistence and validation
+- Writing testable backend code
+- Clean architecture and separation of concerns
 - CI/CD basics with GitHub Actions
+- Deployment (Render)
 
 ---
 
-## Why this portfolio?
+## Why This Portfolio
 
-I believe in learning by building — through small, real projects that grow in complexity.  
-This portfolio shows how I’ve worked step by step to develop my backend engineering skills — from simple CLI tools to more advanced, testable systems.  
+I believe in learning by building —  
+through small, real projects that gradually increase in complexity.
 
-My background in anesthesiology gives me a focus on reliability, clarity, and responsibility — qualities I bring to my work as a backend engineer.
-
----
-
-## Contact  
-GitHub: (https://github.com/katebabakova444)  
-LinkedIn: (https://www.linkedin.com/in/kateryna-babakova)
+This portfolio intentionally shows **progression**:
+from simple CLI tools to backend-oriented systems with responsibility for data, state and correctness.
 
 ---
+
+## Links
+- **GitHub:** https://github.com/katebabakova444
+- **Portfolio Repository:** https://github.com/katebabakova444/kateryna-portfolio
