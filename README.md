@@ -1,7 +1,7 @@
 # Python Backend Portfolio
 
 **Kateryna Babakova — Backend-focused Python Developer**  
-Former anesthesiologist | REACH 2026 Applicant
+Former anesthesiologist
 
 ---
 
